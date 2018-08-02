@@ -1,0 +1,13 @@
+﻿Month,Date,Cashier,Product,Quantity,Price
+December,24/12/2017,1,Wheelgun,2,190
+December,24/12/2017,1,Tyre x4,1,600
+December,24/12/2017,1,Steering,,9000
+December,25/12/2017,1,,1,190
+December,25/12/2017,2,Tyre x4,4,600
+December,25/12/2017,2,Tyre,12,200
+November,13/11/2017,3,Tyre,8,200
+November,13/11/2017,3,Tyre,1,200
+November,13/11/2017,1,Tyre,2,200
+November,21/11/2017,1,Wheelgun,5,190
+November,21/11/2017,1,Tyre x4,1,600
+November,21/11/2017,2,Tyre,4,200
