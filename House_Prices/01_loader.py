@@ -5,7 +5,11 @@ Created on Fri Sep 21 19:34:19 2018
 
 @author: nsammut
 """
+import xx_utils.py
+
 
 # data source
 
-/Users/nsammut/Documents/Personal/Half_Days/N18_Training/House_Prices/houseprice_data
+src = '/Users/nsammut/Documents/Personal/Half_Days/N18_Training/House_Prices/houseprice_data/'
+file_train = 'train.csv'
+

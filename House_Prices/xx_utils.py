@@ -8,10 +8,9 @@ Created on Fri Sep 21 19:36:35 2018
 
 import pandas as pd
 
-def load_file:
-    return 1
+def load_file(src):
+    df_read = pd.read_csv(src)
+    return (df_read)
 
-def write_file:
+def write_file():
     return 1
-
-/Users/nsammut/Documents/Personal/Half_Days/N18_Training/House_Prices/houseprice_data
