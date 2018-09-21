@@ -1,0 +1,5 @@
+
+ambition:
+
+- develop an ML pipeline
+- call it all from main using that main method thing
